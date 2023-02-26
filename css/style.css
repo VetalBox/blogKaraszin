@@ -1,0 +1,42 @@
+#block-content{
+	padding-top: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
+	height: auto;
+}
+.h2-title{
+    font: 25px sans-serif;
+    border-bottom: 1px solid #c0a3a3;
+    padding-bottom: 3px;
+}
+.btn-primary{
+	margin-top: 25px;
+}
+.colUser td{
+	padding: 7px;
+	border: 1px solid #000000;
+}
+.colUser td a{
+	padding: 7px;
+}
+.pstrnav{
+	clear: both;
+}
+.pstrnav ul{
+	list-style-type: none;
+}
+.pstrnav ul li{
+	float: left;
+	margin-left: auto;
+    margin-right: auto;
+	padding-bottom: 30px;
+    width: 6em;
+
+}
+.pstrnav ul li a{
+	font: bold 18px Magento;
+	color: #e40e0e;
+}
+
+
